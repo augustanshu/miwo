@@ -4,87 +4,228 @@
 	    color: #666666 !important;
 }
 </style>
-@section('content')
-
-	<div class="section banner ">
-		<div class="center-wrap">
-		<!--
-			<div class="desc banner-desc">
-				<h1>来自台湾</h1>
-				<p>追求极致，轻易不说完美&mdash;&mdash;半年时间内，我们便更新了魅蓝 note2。它从各个方面都更进一步；无论是 R 角弧线、还是更佳的相机算法、甚或是全新的 mBack 键……如此多的改进，只为给你一台更加完美的「青年良品」。</p>
-			</div>
-			-->
-		</div>
-	</div>
-
-
-	<div class="section cnc">
-		<div class="center-wrap">
-			<div class="desc cnc-desc">
-				<h1>一体化成型 CNC 精雕</h1>
-				<p>更为成熟的一体化成型工艺被运用于魅蓝 note2 上。外部聚碳酸酯材质后盖包裹着内里的镁合金骨架，温润手感与坚实结构均完美继承。mBack 键首次出现在魅蓝系列，经 CNC 精加工后的铝合金按键加固环，视觉冲击与金属质感更强烈。</p>
-			</div>
-		</div>
-	</div>
-
-	<div class="section screen">
-		<div class="center-wrap">
-			<div class="desc screen-desc">
-				<h1>5.5 英寸 1080P 全贴合屏幕</h1>
-				<p>5.5 英寸 1080P Full HD 屏幕，IGZO 显示技术可让每台手机都有高度统一的出色表现，也具备绝佳的低功耗特性。403PPI 带来细腻的视觉体验，对比度高达 1000：1。屏幕亮度则为 450cd/m²，户外强光下依旧清晰可见。GFF 全贴合，避免反光影响，屏显透彻。</p>
-				<ul class="parameters-list">
-					<li><h2>403</h2><span>PPI</span></li>
-					<li><h2>1000 : 1</h2><span>对比度</span></li>
-					<li><h2>450cd/m²</h2><span>亮度</span></li>
-				</ul>
-			</div>
-		</div>
-		
-	</div>
-
-	<div class="section cpu">
-		<div class="center-wrap">
-			<div class="desc cpu-desc">
-				<h1>64 位八核 CPU 三核心图形处理器</h1>
-				<p>新一代 64 位 MT6753 处理器，八颗 A53 架构核心可根据具体使用场景进行智能调配。灵活兼顾高性能大型游戏与日常轻度使用，无需习惯「斤斤计较」的电量规划。图形处理器为三核心 64 位 Mali T720，视频播放画面顺滑流畅。</p>
-			</div>
-			<div class="cpu-img">
-			
-			</div>
-		</div>
-	</div>
-
-	<div class="section net">
-		<div class="center-wrap">
-			<div class="desc net-desc">
-				<h1>五模十三频 双 4G 双卡双待</h1>
-				<p>不再受限硬件，支持 TD-LTE 与 FDD-LTE 双 4G 制式，无缝切换中国移动中国联通。单卡槽双 Nano-SIM 卡位简洁机身设计，主卡位还可复用兼容最大 128GB 内存卡扩展。<br>*公开版可支持中国移动中国联通双 4G</p>
-			</div>
-		</div>
-		<div class="net-img">
-			
-		</div>
-	</div>
-
-	<div class="section camera">
-		<div class="center-wrap">
-			<div class="desc camera-desc">
-				<h1>1300 万像素主摄像头<br>双色温双闪光灯</h1>
-				<p>魅蓝 note2 主摄像头沿用专业的三星 1300 万像素 CMOS，成像锐利细节丰富。双色温双闪光灯，暗光环境下白平衡精准自然。零延时快门拍照，生活每一瞬息皆为永恒。前置 500 万像素配合升级过的 FotoNation 智能美颜算法，按下快门的瞬间，系统即可完成美肤调亮，静待分享社交圈。</p>
-			</div>
-		</div>
-	</div>
-
-	<div class="section battery">
-		<div class="center-wrap">
-			<div class="desc battery-desc">
-				<h1>3100mAh 典型容量<br>SONY 等电芯</h1>
-				<p>电池典型值容量为 3100mAh，在同等价位实属少见。采购高成本的 SONY/ATL 等电芯，只因安全耐用。</p>
-			</div>
-		</div>
-		<div class="battery-img">
-			
-		</div>
-	</div>
-
+@section('menuitem')
+<li data-menuanchor="top" class="menuList pull-left" ><a href="#top">小食</a></li>
+<!--<li data-menuanchor="firstPage" class="menuList"><a href="#firstPage">原料</a></li>-->
+<!--<li data-menuanchor="secondPage"class="menuList"><a href="#secondPage">外观</a></li>-->	
+<!--<li data-menuanchor="thirdPage"class="menuList"><a href="#thirdPage">包装</a></li>-->
+<li data-menuanchor="footer" class="menuList"><a href="#footer">尾部</a></li>			
 @stop
+
+
+
+     @section('content')
+
+	 	  <section id="featuresz" class="featurette section" style="background-color: #fff;">
+	   <div  class="section-fixedwrapper">
+			<div class="center-wrap">
+			<div class="desc thin-desc">
+				<h1>台湾好调味</h1>
+				 <figure class="wrap-img-top wrapper">
+	              <img src="img/seasong-fallback_large-top.png">
+	             </figure>
+			</div>
+
+		</div>
+	   </div>
+      </section>
+	  @stop
+	  
+	  
+	    
+	  <script>
+	   $(function(){
+        var $this=$(this);
+        var $gNav = $('#global-nav');
+        var $mNav = $('#myMenu');
+           $('#fullpage').fullpage({
+           anchors:['top','footer'],
+           css3:true,
+           autoScrolling:1,
+           menu:'#myMenu',
+		   
+         afterRender:function(){
+	 	         
+         },
+        onLeave: function(index, nextIndex, direction){	
+             c('.wrapper',0,0,0)
+
+				
+		if((index == 2) && direction == 'up'){
+				$gNav.animate({
+					top: 0
+				}, 680);
+				$mNav.animate({
+					top: 0
+				}, 680);
+
+			} else if(index == 1 && direction == 'down') {
+								$mNav.animate({
+					top: -44
+				}, 400);
+				$gNav.animate({
+					top: -44
+				}, 400);
+			} 
+			else if((index==3||index==4||index==5||index==6||index==7)&& nextIndex==1)
+			{
+				$gNav.animate({
+					top: 0
+				}, 680);
+				$mNav.animate({
+					top: 0
+				}, 680);	
+			}
+			
+		},
+		afterLoad:function(index, nextIndex, direction){
+		
+		if(index=='top')
+			{
+
+				z('.wtitle0',0,'0s');
+				z('.wh0',0,'0s');
+				z('.wp0',0,'0s');		
+							
+			}	
+		
+		if(index=='firstPage')
+			{
+              	c('.wrap-img-04',15,0.8,-0.3);
+
+				z('.wtitle0',1,'1s');
+				z('.wh0',1,'1s');
+				z('.wp0',1,'2s');
+
+				z('.wtitle1',0,'0s');
+				z('.wh1',0,'0s');
+				z('.wp1',0,'0s');		
+							
+			}
+			if(index=='secondPage')
+			{	
+		        c('.wrap-img-11',15,0.8,-0.3);
+				 c('.wrap-img-12',15,0.8,-0.3);
+				  c('.wrap-img-13',15,0.8,-0.3);
+				
+				z('.wtitle0',0,'0s');
+				z('.wh0',0,'0s');
+				z('.wp0',0,'0s');
+							
+				z('.wtitle1',1,'1s');
+				z('.wh1',1,'1s');
+				z('.wp1',1,'2s');
+							
+				z('.wtitle4',0,'0s');
+				z('.wh4',0,'0s');
+				z('.wp4',0,'0s');
+			}
+			
+		
+			if(index=='thirdPage')
+			{
+			
+			c('.wrap-img-41',15,0,-0.3);
+				
+            z('.wtitle1',0,'0s');
+			z('.wh1',0,'0s');
+			z('.wp1',0,'0s');
+           		   
+			z('.wtitle4',1,'1s');
+			z('.wh4',1,'1s');
+			z('.wp4',1,'2s');
+							
+			}
+			
+			if(index=='sixthPage')
+			{
+		    c('.wrap-img-51',15,0.8,-0.3);
+				
+ 			z('.wtitle4',0,'0s');
+			z('.wh4',0,'0s');
+			z('.wp4',0,'0s');
+			
+			z('.wtitle5',1,'1s');
+			z('.wh5',1,'1s');
+			z('.wp5',1,'2s');
+							
+				
+			}
+			
+		    }
+		
+           });
+
+           function c(item,x,r,l)
+		    {
+			  $w = $this.find(item);
+			  if(l==1)
+			  {
+                	$w
+									.css('-moz-transform', 'translate3d(0px, '+x+'px, 0px) rotate('+r+'deg)')
+									.css('-webkit-transform', 'translate3d(0px, '+x+'px, 0px) rotate('+r+'deg)')
+									.css('-o-transform', 'translate3d(0px, '+x+'px, 0px) rotate('+r+'deg)')
+									.css('-ms-transform', 'translate3d(0px, '+x+'px, 0px) rotate('+r+'deg)')
+									.css('transform', 'translate3d(0px, '+x+'px, 0px) rotate('+r+'deg)')
+									
+									.css('animation-delay', '-1s')
+									.css('-ms-animation-delay', '-1s')
+									.css('-o-animation-delay', '-1s')
+									.css('-webkit-aanimation-delay', '-1s')
+									.css('-moz-animation-delay', '-1s')
+									
+									.css('transition-duration', '2s')
+									.css('-ms-transition-duration', '2s')
+									.css('-o-transition-duration', '2s')
+									.css('-webkit-transition-duration', '2s')
+									.css('-moz-transition-duration', '2s');
+			  }
+			  else{
+				  $w
+									.css('-moz-transform', 'translate3d(0px, -'+x+'px, 0px) rotate('+r+'deg)')
+									.css('-webkit-transform', 'translate3d(0px, -'+x+'px, 0px) rotate('+r+'deg)')
+									.css('-o-transform', 'translate3d(0px, -'+x+'px, 0px) rotate('+r+'deg)')
+									.css('-ms-transform', 'translate3d(0px, -'+x+'px, 0px) rotate('+r+'deg)')
+									.css('transform', 'translate3d(0px, -'+x+'px, 0px) rotate('+r+'deg)')
+									
+									.css('animation-delay', '-1s')
+									.css('-ms-animation-delay', '-1s')
+									.css('-o-animation-delay', '-1s')
+									.css('-webkit-aanimation-delay', '-1s')
+									.css('-moz-animation-delay', '-1s')
+									
+									.css('transition-duration', '2s')
+									.css('-ms-transition-duration', '2s')
+									.css('-o-transition-duration', '2s')
+									.css('-webkit-transition-duration', '2s')
+									.css('-moz-transition-duration', '2s');
+			  }
+				
+		 }
+		
+		    function z(item,op,dt)
+		   {
+			  $w = $this.find(item);
+                	$w
+									.css( 'opacity',op)
+								
+									
+									.css('animation-delay', '-190ms')
+									.css('-ms-animation-delay', '-190ms')
+									.css('-o-animation-delay', '-190ms')
+									.css('-webkit-aanimation-delay', '-190ms')
+									.css('-moz-animation-delay', '-190ms')
+									
+									.css('transition-duration', dt)
+									.css('-ms-transition-duration', dt)
+									.css('-o-transition-duration', dt)
+									.css('-webkit-transition-duration', dt)
+									.css('-moz-transition-duration', dt);
+		 }
+		 		 
+		 
+	 });
+	 
+	  </script>
+
+

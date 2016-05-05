@@ -11,7 +11,7 @@
           <li class="cone"><a  class="nav-a dami" href="{{ URL('rice') }}">大米</a></li>
           <li class="ctwo"><a class="nav-a" href="{{ URL('noodle') }}">面条</a></li>
 		  <li class="cthree"><a class="nav-a" href="{{ URL('snacks') }}">小食</a></li>
-		  <!--<li class="cfour"><a class="nav-a" href="{{ URL('seasoning') }}">调味</a></li>-->
+		  <li class="cfour"><a class="nav-a" href="{{ URL('seasoning') }}">调味</a></li>
 		   <li class="cfive"><a class=" nav-a" href="{{ URL('tw') }}">发现台湾</a></li>
          </ul>
      </li>
@@ -21,7 +21,7 @@
           <li class="cone"><a  class="nav-a dami" href="{{ URL('rice') }}">大米</a></li>
           <li class="ctwo"><a class="nav-a" href="{{ URL('noodle') }}">面条</a></li>
 		  <li class="cthree"><a class="nav-a" href="{{ URL('snacks') }}">小食</a></li>
-		  <!--<li class="cfour"><a class="nav-a" href="{{ URL('seasoning') }}">调味</a></li>-->
+		  <li class="cfour"><a class="nav-a" href="{{ URL('seasoning') }}">调味</a></li>
 		   <li class="cfive"><a class=" nav-a" href="{{ URL('tw') }}">发现台湾</a></li>
 		   	<!--
 		    <li><a class="nav-a" href="{{ URL('jp') }}">发现日本</a></li>
