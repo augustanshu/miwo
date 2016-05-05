@@ -116,8 +116,13 @@
 .full-container .main-content{
 	margin-top:43px;
 }
-
-    .item2 .wrapper{
+ 
+ .wrappers{
+	position:relative;
+	margin-top: 40%;
+  
+}
+    .item2 .wrappers{
 		width:140%;
 		margin-bottom:2%;
 		margin-top:5%;
@@ -136,7 +141,7 @@
 	
 	@media screen and (min-width:980px)
 	{ 
-	   .item2 .wrapper{width:140%;margin-bottom:10%;margin-top:5%;left:-20%;right:-20%;}
+	   .item2 .wrappers{width:140%;margin-bottom:10%;margin-top:5%;left:-20%;right:-20%;}
 	}
 	
 		@media screen and (max-width:980px) 

@@ -27,7 +27,7 @@
                 <div class="container">
                    <div class="carousel-caption">
 				    <h1>台湾食品，源头之旅</h1>
-				   <div class="wrapper">
+				   <div class="wrappers">
 				   
                    <a href="#">  <img src="img/p-1.jpg"></img></a>
 					<a href="#">     <img src="img/p-2.jpg"></img></a>
