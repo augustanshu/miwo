@@ -24,7 +24,7 @@
 			<div class="center-wrap">
 			<div class="desc thin-desc">
 				<h1>台湾好面条</h1>
-				 <figure class="wrap-img-top wrapper">
+				 <figure class="wrap-img-top ">
 	              <img src="img/noodle-fallback_large-top.png">
 	             </figure>
 			</div>
@@ -35,7 +35,7 @@
 	 
    <section id="features0" class="featurette section" style="background-color: #fff;">
 	   <div class="section-wrapper">
-	   <figure class="wrap-img-04 wrapper">
+	   <figure class="wrap-img-04 wrapper wrapper-1">
 	     <img src="img/noodle-fallback_large-11.png">
 	   </figure>
 	   
@@ -61,7 +61,7 @@
    <section id="features1" class="featurette section" style="background-color: #eee;">
 	     
        <div  class="section-wrapper">
-	  	    <figure class="wrap-img-14 wrapper">
+	  	    <figure class="wrap-img-14 wrapper wrapper-1">
 	     <img src="img/noodle-fallback_large-12.png">
 	   </figure>
 	  
@@ -87,11 +87,11 @@
     <section id="features2" class="featurette section" style="background-color: #fff;">
 	    
        <div  class="section-wrapper">
-	   <figure class="wrap-img-20 wrapper">
+	   <figure class="wrap-img-20 wrapper wrapper-2">
 	     <img src="img/noodle-fallback_large-20.png">
 	   </figure>
 	   
-	    <figure class="wrap-img-22 wrapper">
+	    <figure class="wrap-img-22 wrapper wrapper-21">
 	      <img src="img/noodle-fallback_large-21.png">
 	   </figure>
 	   
@@ -121,7 +121,7 @@
     <section id="features3" class="featurette section" style="background-color: #eee;">
 	    
        <div  class="section-wrapper">
-	   <figure class="wrap-img-31 wrapper">
+	   <figure class="wrap-img-31 wrapper wrapper-1">
 	     <img src="img/noodle-fallback_large-31.png">
 	   </figure>
 	   <!--
@@ -150,10 +150,10 @@
 	  <section id="features4" class="featurette section" style="background-color: #fff;">
 	    
        <div  class="section-wrapper">
-	   <figure class="wrap-img-40 wrapper">
+	   <figure class="wrap-img-40 wrapper wrapper-2">
 	     <img src="img/noodle-fallback_large-40.png">
 	   </figure>
-	  <figure class="wrap-img-42 wrapper">
+	  <figure class="wrap-img-42 wrapper wrapper-21">
 	     <img src="img/noodle-fallback_large-41.png">
 	   </figure>
 	   </div >
@@ -177,10 +177,10 @@
 	  <section id="features5" class="featurette section" style="background-color: #eee;">
 	    
        <div  class="section-wrapper">
-       <figure class="wrap-img-54 wrapper">
+       <figure class="wrap-img-54 wrapper wrapper-2">
 	    <img  src="img/noodle-fallback_small-52.png" ></img>
 	   </figure>
-	    <figure class="wrap-img-55 wrapper">
+	    <figure class="wrap-img-55 wrapper wrapper-21">
 	    <img  src="img/noodle-fallback_small-51.png" ></img>
 	   </figure>
 	  

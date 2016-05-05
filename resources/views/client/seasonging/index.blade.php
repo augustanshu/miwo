@@ -1,14 +1,12 @@
-@extends('client.layouts.index2')
+@extends('client.layouts.index')
 <style>
 .cfour a{
 	    color: #666666 !important;
 }
 </style>
+
 @section('menuitem')
-<li data-menuanchor="top" class="menuList pull-left" ><a href="#top">小食</a></li>
-<!--<li data-menuanchor="firstPage" class="menuList"><a href="#firstPage">原料</a></li>-->
-<!--<li data-menuanchor="secondPage"class="menuList"><a href="#secondPage">外观</a></li>-->	
-<!--<li data-menuanchor="thirdPage"class="menuList"><a href="#thirdPage">包装</a></li>-->
+ <li data-menuanchor="top" class="menuList pull-left" ><a href="#top">调味</a></li>
 <li data-menuanchor="footer" class="menuList"><a href="#footer">尾部</a></li>			
 @stop
 
@@ -21,7 +19,7 @@
 			<div class="center-wrap">
 			<div class="desc thin-desc">
 				<h1>台湾好调味</h1>
-				 <figure class="wrap-img-top wrapper">
+				 <figure class="wrap-img-top ">
 	              <img src="img/seasong-fallback_large-top.png">
 	             </figure>
 			</div>
@@ -39,7 +37,7 @@
         var $gNav = $('#global-nav');
         var $mNav = $('#myMenu');
            $('#fullpage').fullpage({
-           anchors:['top','footer'],
+              anchors:['top','footer'],
            css3:true,
            autoScrolling:1,
            menu:'#myMenu',
@@ -77,83 +75,7 @@
 				}, 680);	
 			}
 			
-		},
-		afterLoad:function(index, nextIndex, direction){
-		
-		if(index=='top')
-			{
-
-				z('.wtitle0',0,'0s');
-				z('.wh0',0,'0s');
-				z('.wp0',0,'0s');		
-							
-			}	
-		
-		if(index=='firstPage')
-			{
-              	c('.wrap-img-04',15,0.8,-0.3);
-
-				z('.wtitle0',1,'1s');
-				z('.wh0',1,'1s');
-				z('.wp0',1,'2s');
-
-				z('.wtitle1',0,'0s');
-				z('.wh1',0,'0s');
-				z('.wp1',0,'0s');		
-							
-			}
-			if(index=='secondPage')
-			{	
-		        c('.wrap-img-11',15,0.8,-0.3);
-				 c('.wrap-img-12',15,0.8,-0.3);
-				  c('.wrap-img-13',15,0.8,-0.3);
-				
-				z('.wtitle0',0,'0s');
-				z('.wh0',0,'0s');
-				z('.wp0',0,'0s');
-							
-				z('.wtitle1',1,'1s');
-				z('.wh1',1,'1s');
-				z('.wp1',1,'2s');
-							
-				z('.wtitle4',0,'0s');
-				z('.wh4',0,'0s');
-				z('.wp4',0,'0s');
-			}
-			
-		
-			if(index=='thirdPage')
-			{
-			
-			c('.wrap-img-41',15,0,-0.3);
-				
-            z('.wtitle1',0,'0s');
-			z('.wh1',0,'0s');
-			z('.wp1',0,'0s');
-           		   
-			z('.wtitle4',1,'1s');
-			z('.wh4',1,'1s');
-			z('.wp4',1,'2s');
-							
-			}
-			
-			if(index=='sixthPage')
-			{
-		    c('.wrap-img-51',15,0.8,-0.3);
-				
- 			z('.wtitle4',0,'0s');
-			z('.wh4',0,'0s');
-			z('.wp4',0,'0s');
-			
-			z('.wtitle5',1,'1s');
-			z('.wh5',1,'1s');
-			z('.wp5',1,'2s');
-							
-				
-			}
-			
-		    }
-		
+		},	
            });
 
            function c(item,x,r,l)

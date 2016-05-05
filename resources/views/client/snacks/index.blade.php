@@ -22,7 +22,7 @@
 			<div class="center-wrap">
 			<div class="desc thin-desc">
 				<h1>台湾好零食</h1>
-				 <figure class="wrap-img-top wrapper">
+				 <figure class="wrap-img-top">
 	              <img src="img/snacks-fallback_large-top.png">
 	             </figure>
 			</div>
@@ -33,7 +33,7 @@
 	 
    <section id="features0" class="featurette section" style="background-color: #fff;">
 	   <div class="section-wrapper">
-	   <figure class="wrap-img-04 wrapper">
+	   <figure class="wrap-img-04 wrapper wrapper-1">
 	     <img src="img/snacks-fallback_large-0.png">
 	   </figure>
 	   </div>
@@ -58,15 +58,15 @@
    <section id="features1" class="featurette section" style="background-color: #eee;">
 	     
        <div  class="section-wrapper">
-	   <figure class="wrap-img-11 wrapper">
+	   <figure class="wrap-img-11 wrapper wrapper-3">
 	     <img src="img/snacks-fallback_large-10.png">
 	   </figure>
 	  
-	    <figure class="wrap-img-12 wrapper">
+	    <figure class="wrap-img-12 wrapper wrapper-31">
 	     <img src="img/snacks-fallback_large-11.png">
 	   </figure>
 	   
-	    <figure class="wrap-img-13 wrapper">
+	    <figure class="wrap-img-13 wrapper wrapper-32">
 	     <img src="img/snacks-fallback_large-12.png">
 	   </figure>
 	   
@@ -101,7 +101,7 @@
 	  <section id="features4" class="featurette section" style="background-color: #fff;">
 	    
        <div  class="section-wrapper">
-	   <figure class="wrap-img-41 wrapper">
+	   <figure class="wrap-img-41 wrapper wrapper-1">
 	     <img src="img/snacks-fallback_large-20.png">
 	   </figure>
 	   <!--

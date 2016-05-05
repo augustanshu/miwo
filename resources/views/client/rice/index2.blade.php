@@ -42,14 +42,14 @@ html { overflow-x: hidden; overflow-y:hidden; }
 	 
       <section id="features0" class="featurette section" style="background-color: #fff;">
 	   <div class="section-wrapper">
-	   <figure class="wrap-img-01 wrapper">
+	   <figure class="wrap-img-01 wrapper-3 wrapper">
 	     <img src="img/rice-fallback_large-0.png">
 	   </figure>
 	 
-	    <figure class="wrap-img-02 wrapper">
+	    <figure class="wrap-img-02 wrapper-31 wrapper">
 	     <img src="img/rice-fallback_large-01.png">
 	   </figure>
-	    <figure class="wrap-img-03 wrapper">
+	    <figure class="wrap-img-03 wrapper-32 wrapper">
 	     <img src="img/rice-fallback_large-03.png">
 	   </figure>
 	   
@@ -75,15 +75,15 @@ html { overflow-x: hidden; overflow-y:hidden; }
    <section id="features1" class="featurette section" style="background-color: #eee;">
 	     
        <div  class="section-wrapper">
-	   <figure class="wrap-img-11 wrapper">
+	   <figure class="wrap-img-11 wrapper-3 wrapper">
 	     <img src="img/rice-fallback_large-11.png">
 	   </figure>
 	  
-	    <figure class="wrap-img-12 wrapper">
+	    <figure class="wrap-img-12 wrapper-31 wrapper">
 	     <img src="img/rice-fallback_large-12.png">
 	   </figure>
 	   
-	    <figure class="wrap-img-13 wrapper">
+	    <figure class="wrap-img-13 wrapper-32 wrapper">
 	     <img src="img/rice-fallback_large-13.png">
 	   </figure>
 	   
@@ -108,7 +108,7 @@ html { overflow-x: hidden; overflow-y:hidden; }
     <section id="features2" class="featurette section" style="background-color: #fff;">
 	    
        <div  class="section-wrapper">
-	   <figure class="wrap-img-21 wrapper">
+	   <figure class="wrap-img-21 wrapper wrapper-1">
 	     <img src="img/rice-fallback_large-2.png">
 	   </figure>
 	   <!--
@@ -137,7 +137,7 @@ html { overflow-x: hidden; overflow-y:hidden; }
     <section id="features3" class="featurette section" style="background-color: #eee;">
 	    
        <div  class="section-wrapper">
-	   <figure class="wrap-img-31 wrapper">
+	   <figure class="wrap-img-31 wrapper wrapper-1">
 	     <img src="img/rice-fallback_large-31.png">
 	   </figure>
 	   <!--
@@ -166,7 +166,7 @@ html { overflow-x: hidden; overflow-y:hidden; }
 	  <section id="features4" class="featurette section" style="background-color: #fff;">
 	    
        <div  class="section-wrapper">
-	   <figure class="wrap-img-41 wrapper">
+	   <figure class="wrap-img-41 wrapper wrapper-1">
 	     <img src="img/rice-fallback_large-41.png">
 	   </figure>
 	   <!--
@@ -195,13 +195,13 @@ html { overflow-x: hidden; overflow-y:hidden; }
 	  <section id="features5" class="featurette section" style="background-color: #eee;">
 	    
        <div  class="section-wrapper">
-	   <figure class="wrap-img-51 wrapper">
+	   <figure class="wrap-img-51 wrapper wrapper-3">
 	    <img  src="img/rice-fallback_small-52.png" ></img>
 	   </figure>
-	    <figure class="wrap-img-52 wrapper">
+	    <figure class="wrap-img-52 wrapper wrapper-31">
 	    <img  src="img/rice-fallback_small-54.png" ></img>
 	   </figure>
-	    <figure class="wrap-img-53 wrapper">
+	    <figure class="wrap-img-53 wrapper wrapper-32">
 	    <img  src="img/rice-fallback_small-53.png" ></img>
 	   </figure>
 	   <!--
