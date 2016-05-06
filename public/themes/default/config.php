@@ -37,7 +37,8 @@ return array(
         {
             // You can remove this line anytime.
             $theme->setTitle(trans('cms.name'));
-
+            $theme->setKeywords(trans('cms.keywords'));
+			$theme->setDescription(trans('cms.description'));
             // Breadcrumb template.
             // $theme->breadcrumb()->setTemplate('
             //     <ul class="breadcrumb">
