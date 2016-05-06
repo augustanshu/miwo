@@ -29,10 +29,10 @@
 				    <h1>台湾食品，源头之旅</h1>
 				   <div class="wrappers">
 				   
-                   <a href="#">  <img src="img/p-1.jpg"></img></a>
-					<a href="#">     <img src="img/p-2.jpg"></img></a>
-					<a href="#"> 	   <img src="img/p-3.jpg"></img></a>
-					<a href="#"> 	      <img src="img/p-4.jpg"></img></a>
+                   <a href="{{URL('rice')}}">  <img src="img/p-1.jpg"></img></a>
+					<a href="{{URL('noodle')}}">     <img src="img/p-2.jpg"></img></a>
+					<a href="{{URL('snacks')}}"> 	   <img src="img/p-3.jpg"></img></a>
+					<a href="{{URL('seasoning')}}"> 	      <img src="img/p-4.jpg"></img></a>
 							  </div>
 							  </div>
                 </div>
