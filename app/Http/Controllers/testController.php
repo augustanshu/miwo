@@ -12,7 +12,7 @@ class testController extends Controller
 	
 	public function __construct()
     {
-		 $this->setupTheme('default', 'default');
+	// $this->setupTheme('default', 'default');
 	}
     /**
      * Display a listing of the resource.
@@ -21,7 +21,8 @@ class testController extends Controller
      */
     public function index()
     {
-        return $this->theme->of('test')->render();
+        //return $this->theme->of('test')->render();
+		return view('test');
     }
 
     /**

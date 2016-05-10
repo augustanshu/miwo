@@ -61,9 +61,13 @@
    <section id="features1" class="featurette section" style="background-color: #eee;">
 	     
        <div  class="section-wrapper">
-	  	    <figure class="wrap-img-14 wrapper wrapper-1">
-	     <img src="img/noodle-fallback_large-12.png">
-	   </figure>
+	  	    <figure class="wrap-img-14 wrapper wrapper-2">
+	        <img src="img/noodle-fallback_large-12.png">
+	        </figure>
+			
+			 <figure class="wrap-img-15 wrapper wrapper-21">
+	        <img src="img/noodle-fallback_large-13.png">
+	        </figure>
 	  
 	   
 	   </div >
@@ -278,7 +282,8 @@
 			if(index=='secondPage')
 			{	
 				  c('.wrap-img-14',15,0.8,-0.3);
-				
+				 c('.wrap-img-15',10,-0.8,-0.3);
+				 
 				z('.wtitle0',0,'0s');
 				z('.wh0',0,'0s');
 				z('.wp0',0,'0s');
