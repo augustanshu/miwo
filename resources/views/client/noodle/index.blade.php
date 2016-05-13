@@ -113,7 +113,7 @@
           <p class="wp wp2">优质原料尽显纯正色泽，面条根根如丝细腻光滑。
           </p>
 		  <div class="wh wh2">
-          <h4> <small>宽面：色泽纯正，细若均匀</small></h4>
+          <h4> <small>宽面：色泽纯正，粗细均匀</small></h4>
 		  </div>
           <p class="wp wp2">优质原料尽显纯正色泽，面条粗细均匀老少咸宜。
           </p>
