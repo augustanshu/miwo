@@ -79,19 +79,21 @@
 		</div>
 		 <div class="col-lg-10">
 		 <div class="wh wh1">
-          <h4> <small>枫叶派</small></h4>
+          <h4> <small>枫叶派/蝴蝶酥</small></h4>
 		  </div>
           <p class="wp wp1">内层层次分明，层层奶香；外层有糖层，独特酥脆。精致外观如同甜蜜的爱恋。
           </p>
+		  <!--
 		  <div class="wh wh1">
           <h4> <small>蝴蝶酥</small></h4>
 		  </div>
           <p class="wp wp1">内层层次分明，层层奶香；外层有糖层，独特酥脆。精致外观如同甜蜜的爱恋。
           </p>
+		  -->
 		  <div class="wh wh1">
           <h4> <small>葡萄派</small></h4>
 		  </div>
-          <p class="wp wp1">酥脆可口的蝴蝶派（枫叶，葡萄），造型小巧可爱，层层酥脆，让你的牙齿间奏出乐章。
+          <p class="wp wp1">内层层次分明，葡萄干颗粒相间其中；外层有糖层，独特酥脆。精致外观如同甜蜜的爱恋。
           </p>
         </div>
 		</div>
