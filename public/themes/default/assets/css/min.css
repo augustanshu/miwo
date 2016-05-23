@@ -448,10 +448,11 @@ list-style:none;
 @media screen  and (max-height:440px)
 {
 	.section-fixedwrapper.section h1 {  font-size: 20px !important }
-	.wrap-img-top{width:60% !important;margin:0 auto;}
+	.wrap-img-top{width:40% !important;margin:0 auto;}
 	.wrapper{ width:40% !important;}
 	.wrapper-3{ margin-top:-18% ! important;}
-    .section h1 {margin-top: 2%;  margin-bottom: 0;  font-size: 30px; font-weight: 400;}	
+    .section h1 {margin-top: 2%;  margin-bottom: 0;  font-size: 20px; font-weight: 400;}	
+	.wrap-img-top  img{width:50%;}
 }
 
 @media screen and (max-width:820px){
