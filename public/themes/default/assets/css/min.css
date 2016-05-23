@@ -452,6 +452,7 @@ list-style:none;
 .copyright .links{ float:right;}
 
 @media screen and (max-width:820px){
+	
 .footer-link { padding: 40px 0 30px 0; }
 .copyright { padding: 10px 0; }
 .copyright span{ float:right}
@@ -459,6 +460,7 @@ list-style:none;
 .copyright .reserved strong{ margin-right:10px;}
 .copyright .links{	float:none;	}
 .banner-desc { position: absolute; margin: 0 auto; color: #000;top:10% }  
+.banner-desc p {padding:0 0; line-height:20px;}
 .banner-desc img{width:80px;}   
 .section { overflow: none;} 
 .desc.section h1 { margin-top: 10px; line-height: 1.4; font-size: 20px; font-weight: 400;}
