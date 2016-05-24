@@ -4,18 +4,19 @@
       <div class="navwrapper">
         <div class="navbar navbar-inverse navbar-static-top " >
           <div class="navbar-container" >
-           <div class="pull-left"><a style="font-size:20px;">
-		  <!-- <i  class="fa fa-home"></i>-->
-		   </a>
-		   </div>
-            <div class="navbar-collapse collapse pull-right">
+              <div class="pull-left">
+		      <a style="font-size:20px;">
+		       <!-- <i  class="fa fa-home"></i>-->
+		       </a>
+		      </div>
+            <div class="navbar-collapse collapse pull-right navbar-top">
               <ul class="nav navbar-nav ">
 			  @section('menuitem')
 
               @show				
               </ul>
             </div>
-          </div>
+         </div>
         </div> 
       
       </div>

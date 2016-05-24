@@ -31,6 +31,10 @@
 	float:left;
 	margin:0;
 }
+#global-nav .navbar-header{
+	float:left;
+	margin:0 !important;
+}
 
 #global-nav .navbar-nav li {
     float: left;
@@ -58,6 +62,7 @@
 
 	min-height:43px !important;
 	line-height:43px;
+	 background: #000;
     background: rgba(0,0,0,0.8);
     font-size: 13px;
 	border-radius:initial;
@@ -75,7 +80,9 @@
     position: relative;
     z-index: 2
 }
-
+#global-nav .navbar{
+	
+}
 
 #myMenu ul li:last-child{
 	display:none;
@@ -83,17 +90,18 @@
 
 .navbar-nav .icon{
 	 background-repeat: no-repeat;
-    width: 100px;;
+    width: 100px;
 	background-position: center center;
 	background-image: url("../../../../img/MIWO.png");
 	margin:11px 0;
+	#margin:0 0;
 }
 
 .navbar-nav .icon:hover{
 	background-image: url('../../../../img/MIWO-hover.png');
 }
 .navbar-nav{
-	width:100%;
+	
 }
 
 .navbar-default .navbar-nav>li>a:hover,
@@ -278,6 +286,7 @@ list-style:none;
 .navbar.navbar-inverse.navbar-static-top {
       margin-bottom:0;
       background: rgba(223, 224, 226,0.85);
+	  background: #DFE0E2;
       min-height: 34px;
 }
 .navbar.navbar-inverse.navbar-static-top a{
@@ -297,6 +306,9 @@ list-style:none;
 }
 
 .navbar-wrapper .nav>li {position: relative;display: block; float: left;}
+.navbar-top {#display:block;#border-color:#DFE0E2 !important;display:block\0;border-color:#DFE0E2\0 !important}
+.navbar-top li a{#font-size:14px !important;font-size:14px\0 !important;}
+
 
 @media screen and (max-width:768px) {
   .navbar-collapse {  width: auto; border-top: 0; -webkit-box-shadow: none;box-shadow: none;}
@@ -367,7 +379,7 @@ list-style:none;
 	width:60%;
 }
 
-.fp-tableCell{display: table-cell;vertical-align: inherit !important;width: 100%;height: 100%;}
+.fp-tableCell{display: table-cell;vertical-align: inherit !important;width: 100%;height: 100%;#margin-top:200px;}
 .fp-tableCell:first-child{vertical-align: middle !important;}
 
 
@@ -410,7 +422,7 @@ list-style:none;
 #dowebok.nav li { float: left;}
 #dowebok.nav a { display: block; padding: 31px 22px 30px;}
 
-.center-wrap { position: relative; z-index: 1; width: 90%; height: 100%; margin: 0 auto; border-top:1px solid #DCD5D5}
+.center-wrap { position: relative; z-index: 1; width: 90%; height: 100%; margin: 0 auto;}
 .section { overflow: hidden;}
 .section h1 {margin-top: 2%;  margin-bottom: 1%; line-height: 1.4; font-size: 40px; font-weight: 400;}
 .section p { line-height: 25px;}
@@ -449,7 +461,7 @@ list-style:none;
 {
 	.section-fixedwrapper.section h1 {  font-size: 20px !important }
 	.wrap-img-top{width:40% !important;margin:0 auto;}
-	.wrapper{ width:0% !important;}
+	.wrapper{ width:50% !important;}
 	.wrapper-3{ margin-top:-18% ! important;}
     .section h1 {margin-top: 2%;  margin-bottom: 0;  font-size: 20px; font-weight: 400;}	
 	.wrap-img-top  img{width:50%;}
@@ -541,7 +553,7 @@ margin:60px 0;
 	margin:0 auto;
 	width:380px;
 }
-
+.contactus h5{#margin-top:50px}
 	.contactus .code img{
 		width:250px;
 	}

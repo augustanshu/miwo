@@ -60,7 +60,7 @@ return array(
         {
 			 $theme->asset()->usePath()->add('app', 'css/app.css');
 			 $theme->asset()->usePath()->add('min', 'css/min.css');
-			 $theme->asset()->usePath()->add('jquery', 'js/jquery.min.js');
+			 $theme->asset()->usePath()->add('jQuery', 'js/jquery.min.js');
 			 $theme->asset()->usePath()->add('bootstrapjs', 'js/bootstrap.min.js');
 			 //$theme->asset()->usePath()->add('stickup', 'js/stickUp.min.js'); 
 			 $theme->asset()->usePath()->add('js', 'js/app.js');

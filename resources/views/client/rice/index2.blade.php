@@ -7,7 +7,7 @@
 html { overflow-x: hidden; overflow-y:hidden; }
 
 .section{
-	height:200%;
+	
 	overflow: hidden;
 }
 </style>
