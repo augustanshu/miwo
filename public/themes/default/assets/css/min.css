@@ -427,7 +427,7 @@ list-style:none;
 .section h1 {margin-top: 2%;  margin-bottom: 1%; line-height: 1.4; font-size: 40px; font-weight: 400;}
 .section p { line-height: 25px;}
 .thin-desc {margin: 0 auto;  text-align: center;}
-.banner { background: url(../../../../img/tw-back.png) 20% no-repeat;}
+.banner { background: url(../../../../img/tw-back.png) 100% no-repeat;}
 .banner-desc { position: absolute; margin: 0 auto; color: #000;top:20%; }
 .banner-desc h1 { text-align: center;}
 .banner-desc p {padding:0 20%; line-height:20px;}
