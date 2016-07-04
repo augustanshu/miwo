@@ -4,7 +4,7 @@
 			<div class="center-wrap">
 				<div class="clearfix">
 							<div class="copyright">
-			<div class="reserved" ><a><strong>宁波港通天下网络科技有限公司         </strong><span>Copyright © 2016. All rights reserved.</span></a></div>
+			<div class="reserved" ><a><strong>宁波港通天下网络科技有限公司         </strong><span>Copyright © 2016. All rights reserved.</span><span> 许可证号:浙ICP备16017384号</span></a></div>
 			<div class="links">
 				<a href="{{URL('about')}}" class="footer-link">关于我们</a>
 			<a href="{{URL('about/contactus')}}" class="footer-link">联系我们</a>
