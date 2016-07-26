@@ -31,7 +31,7 @@
                 <!-- Description -->
                 <div class="form-group">
                     <div class="input-group">
-                        <text-angular ng-model="vm.post.description" placeholder="Description"></text-angular>
+                       <textarea froala ng-model="vm.post.description"></textarea>
                     </div>
                 </div>
 
