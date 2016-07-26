@@ -193,6 +193,7 @@
 	max-width: 2848px;
 	margin:0 auto;
 	overflow:hidden;
+	padding-top:20px;
 }
 #pic-about ul{
 	padding: 0 0;
@@ -208,8 +209,39 @@ margin:0;
 padding:0;
 list-style:none;
 }
+#pic-about a:hover .thumb_center {
+ display:block;
+}
+#pic-about .thumb_center{
+position:absolute;
+left:0;
+z-index:99999;
+max-height:150px;
+min-height:4px;
+width:25%;
+margin:0;
+display:none;
+}
+
+#pic-about .thumb11
+{
+ left:25%;
+}
+#pic-about .thumb21
+{
+ left:50%;
+}
+#pic-about .thumb31
+{
+ left:75%;
+}
+
 #pic-about .prom-a{
 	
+}
+@media screen and (max-width:768px)
+{
+#pic-about{display:none}
 }
 
 /*ÄÚÈÝÒ³¹ö¶¯µÈ
