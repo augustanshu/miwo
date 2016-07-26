@@ -11,7 +11,7 @@
         <div class="carousel-inner active">
 		
             <div class="item  active">
-                <a href="{{URL('about/activity/3')}}"><img src="img/1.jpg" style="width:100%" data-src=" " alt="First slide"></a>
+                <a href="{{URL('about/activity/4')}}"><img src="img/1.jpg" style="width:100%" data-src=" " alt="First slide"></a>
                 <div class="container">
                     <div class="carousel-caption">
 					 
