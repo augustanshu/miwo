@@ -56,7 +56,12 @@
         <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
         <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
     </div><!-- /.carousel -->
-	
-
-   
-	</style>
+	<div id="pic-about">
+	<ul>
+       <a href="https://detail.1688.com/offer/535621388749.html" target="_blank"><img  class="thumb" src="img/thumb0.png">
+	   <img class="thumb_center" src="img/thumb0-1.png"></a>
+		 <a href="https://detail.1688.com/offer/533973880151.html" target="_blank"> <img class="thumb" src="img/thumb1.png"><img class="thumb_center thumb11" src="img/thumb1-1.png"></a>
+		 <a href="https://detail.1688.com/offer/533940281020.html" target="_blank"> <img class="thumb"  src="img/thumb2.png"><img class="thumb_center thumb21" src="img/thumb2-1.png"></a>
+		   <a href="https://detail.1688.com/offer/533913554283.html" target="_blank"><img class="thumb"  src="img/thumb3.png"><img class="thumb_center thumb31" src="img/thumb3-1.png"></a>
+		  </ul>
+   </div>
