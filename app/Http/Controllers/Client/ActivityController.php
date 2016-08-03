@@ -60,7 +60,7 @@ class ActivityController extends Controller
 		    $title='公司动态';
 	       $url='about/activity';
              $article = Post::View()->find($id);
-			 $article_former = Post::View()->where('id','<',$id)->last();
+			 $article_former = Post::View()->where('id','<',$id)->orderBy('id', 'desc')->first();
 			 $article_latter= Post::View()->where('id','>',$id)->first();
 			 
 			if(!$article ->exists)
