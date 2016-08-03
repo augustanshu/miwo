@@ -18,10 +18,12 @@
         {!! Theme::asset()->styles() !!}
         {!! Theme::asset()->scripts() !!}
 		<!-- miwo-life.com Baidu tongji analytics -->
+		<!--
 		<script type="text/javascript">
          var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
          document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F330479a25665815cccd69c3668994e47' type='text/javascript'%3E%3C/script%3E"));
         </script>
+		-->
     </head>
     <body class="gt">
         {!! Theme::partial('header') !!}
