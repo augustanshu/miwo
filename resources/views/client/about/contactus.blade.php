@@ -20,7 +20,7 @@
      <br>
 	 <div class="map">
     <a href="http://map.baidu.com/?shareurl=1&poiShareUid=abee0949eab6a26f3fe23129">
-	<img src="{{url('img/location.png')}}"></img>
+	<img src="{{url('img/location.png')}}"  alt="港通天下"></img>
 	</a>
 	</map>
    </div>

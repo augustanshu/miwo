@@ -30,10 +30,10 @@
 				    <h1>台湾食品，源头之旅</h1>
 				   <div class="wrappers">
 				   
-                   <a href="{{URL('rice')}}">  <img src="img/p-1.jpg"></img></a>
-					<a href="{{URL('noodle')}}">     <img src="img/p-2.jpg"></img></a>
-					<a href="{{URL('snacks')}}"> 	   <img src="img/p-3.jpg"></img></a>
-					<a href="{{URL('seasoning')}}"> 	      <img src="img/p-4.jpg"></img></a>
+                   <a href="{{URL('rice')}}">  <img src="img/p-1.jpg" alt="港通天下"></img></a>
+					<a href="{{URL('noodle')}}">     <img src="img/p-2.jpg"  alt="港通天下"></img></a>
+					<a href="{{URL('snacks')}}"> 	   <img src="img/p-3.jpg"  alt="港通天下"></img></a>
+					<a href="{{URL('seasoning')}}"> 	      <img src="img/p-4.jpg"  alt="港通天下"></img></a>
 							  </div>
 							  </div>
                 </div>
@@ -58,10 +58,10 @@
     </div><!-- /.carousel -->
 	<div id="pic-about">
 	<ul>
-       <a href="https://detail.1688.com/offer/535621388749.html" target="_blank"><img  class="thumb" src="img/thumb0.png">
-	   <img class="thumb_center" src="img/thumb0-1.png"></a>
-		 <a href="https://detail.1688.com/offer/533973880151.html" target="_blank"> <img class="thumb" src="img/thumb1.png"><img class="thumb_center thumb11" src="img/thumb1-1.png"></a>
-		 <a href="https://detail.1688.com/offer/533940281020.html" target="_blank"> <img class="thumb"  src="img/thumb2.png"><img class="thumb_center thumb21" src="img/thumb2-1.png"></a>
-		   <a href="https://detail.1688.com/offer/533913554283.html" target="_blank"><img class="thumb"  src="img/thumb3.png"><img class="thumb_center thumb31" src="img/thumb3-1.png"></a>
+       <a href="https://detail.1688.com/offer/535621388749.html" target="_blank"><img  class="thumb" src="img/thumb0.png"  alt="港通天下">
+	   <img class="thumb_center" src="img/thumb0-1.png"  alt="港通天下"></a>
+		 <a href="https://detail.1688.com/offer/533973880151.html" target="_blank"> <img class="thumb" src="img/thumb1.png"  alt="港通天下"><img class="thumb_center thumb11" src="img/thumb1-1.png"  alt="港通天下"></a>
+		 <a href="https://detail.1688.com/offer/533940281020.html" target="_blank"> <img class="thumb"  src="img/thumb2.png"  alt="港通天下"><img class="thumb_center thumb21" src="img/thumb2-1.png"  alt="港通天下"></a>
+		   <a href="https://detail.1688.com/offer/533913554283.html" target="_blank"><img class="thumb"  src="img/thumb3.png"  alt="港通天下"><img class="thumb_center thumb31" src="img/thumb3-1.png"  alt="港通天下"></a>
 		  </ul>
    </div>

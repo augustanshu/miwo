@@ -20,7 +20,7 @@
 			<div class="desc thin-desc">
 				<h1>台湾好调味</h1>
 				 <figure class="wrap-img-top ">
-	              <img src="img/seasong-fallback_large-top.png">
+	              <img src="img/seasong-fallback_large-top.png"  alt="港通天下">
 	             </figure>
 			</div>
 

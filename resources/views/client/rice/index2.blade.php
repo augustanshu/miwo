@@ -32,7 +32,7 @@ html { overflow-x: hidden; overflow-y:hidden; }
 			<div class="desc thin-desc">
 				<h1>台湾好大米</h1>
 				 <figure class="wrap-img-top">
-	              <img src="img/rice-fallback_large-top.png">
+	              <img src="img/rice-fallback_large-top.png"  alt="港通天下">
 	             </figure>
 			</div>
 
@@ -43,14 +43,14 @@ html { overflow-x: hidden; overflow-y:hidden; }
       <section id="features0" class="featurette section" style="background-color: #fff;">
 	   <div class="section-wrapper">
 	   <figure class="wrap-img-01 wrapper-3 wrapper">
-	     <img src="img/rice-fallback_large-0.png">
+	     <img src="img/rice-fallback_large-0.png"  alt="港通天下">
 	   </figure>
 	 
 	    <figure class="wrap-img-02 wrapper-31 wrapper">
-	     <img src="img/rice-fallback_large-01.png">
+	     <img src="img/rice-fallback_large-01.png"  alt="港通天下">
 	   </figure>
 	    <figure class="wrap-img-03 wrapper-32 wrapper">
-	     <img src="img/rice-fallback_large-03.png">
+	     <img src="img/rice-fallback_large-03.png"  alt="港通天下">
 	   </figure>
 	   
 	   </div>
@@ -76,15 +76,15 @@ html { overflow-x: hidden; overflow-y:hidden; }
 	     
        <div  class="section-wrapper">
 	   <figure class="wrap-img-11 wrapper-3 wrapper">
-	     <img src="img/rice-fallback_large-11.png">
+	     <img src="img/rice-fallback_large-11.png"  alt="港通天下">
 	   </figure>
 	  
 	    <figure class="wrap-img-12 wrapper-31 wrapper">
-	     <img src="img/rice-fallback_large-12.png">
+	     <img src="img/rice-fallback_large-12.png"  alt="港通天下">
 	   </figure>
 	   
 	    <figure class="wrap-img-13 wrapper-32 wrapper">
-	     <img src="img/rice-fallback_large-13.png">
+	     <img src="img/rice-fallback_large-13.png"  alt="港通天下">
 	   </figure>
 	   
 	   </div >
@@ -109,7 +109,7 @@ html { overflow-x: hidden; overflow-y:hidden; }
 	    
        <div  class="section-wrapper">
 	   <figure class="wrap-img-21 wrapper wrapper-1">
-	     <img src="img/rice-fallback_large-2.png">
+	     <img src="img/rice-fallback_large-2.png"  alt="港通天下">
 	   </figure>
 	   <!--
 	    <figure class="wrap-img-22 wrapper">
@@ -138,7 +138,7 @@ html { overflow-x: hidden; overflow-y:hidden; }
 	    
        <div  class="section-wrapper">
 	   <figure class="wrap-img-31 wrapper wrapper-1">
-	     <img src="img/rice-fallback_large-31.png">
+	     <img src="img/rice-fallback_large-31.png"  alt="港通天下">
 	   </figure>
 	   <!--
 	    <figure class="wrap-img-32 wrapper">
@@ -167,7 +167,7 @@ html { overflow-x: hidden; overflow-y:hidden; }
 	    
        <div  class="section-wrapper">
 	   <figure class="wrap-img-41 wrapper wrapper-1">
-	     <img src="img/rice-fallback_large-41.png">
+	     <img src="img/rice-fallback_large-41.png"  alt="港通天下">
 	   </figure>
 	   <!--
 	    <figure class="wrap-img-32 wrapper">
@@ -196,13 +196,13 @@ html { overflow-x: hidden; overflow-y:hidden; }
 	    
        <div  class="section-wrapper">
 	   <figure class="wrap-img-51 wrapper wrapper-3">
-	    <img  src="img/rice-fallback_small-52.png" ></img>
+	    <img  src="img/rice-fallback_small-52.png"  alt="港通天下"></img>
 	   </figure>
 	    <figure class="wrap-img-52 wrapper wrapper-31">
-	    <img  src="img/rice-fallback_small-54.png" ></img>
+	    <img  src="img/rice-fallback_small-54.png" alt="港通天下" ></img>
 	   </figure>
 	    <figure class="wrap-img-53 wrapper wrapper-32">
-	    <img  src="img/rice-fallback_small-53.png" ></img>
+	    <img  src="img/rice-fallback_small-53.png" alt="港通天下" ></img>
 	   </figure>
 	   <!--
 	    <figure class="wrap-img-32 wrapper">

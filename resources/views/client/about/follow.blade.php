@@ -5,11 +5,11 @@
 	 <div class="text-center">
 	 
 	 <div class="code">
-	 <img src="{{url('img/qrcode.jpg')}}"></img>
+	 <img src="{{url('img/qrcode.jpg')}}"  alt="港通天下"></img>
 	 </div>
 	 <br>
 	 <div class="title">
-	 <img src="{{url('img/wx_logo.png')}}"></img>
+	 <img src="{{url('img/wx_logo.png')}}"  alt="港通天下"></img>
 	 <strong>
 	 微信扫一扫 关注公众账号
 	 </strong>

@@ -14,23 +14,23 @@
 
 <section class="about-wrapper">
 <div class="wrapper1">
-<img src="img/about-1.jpg"></img>
+<img src="img/about-1.jpg"  alt="港通天下"></img>
 <strong><p>宁波国际会展中心10号馆</p></strong>
 </div>
 
 <div class="wrapper2">
-<img src="img/about-2.jpg"></img>
+<img src="img/about-2.jpg"  alt="港通天下"></img>
 <strong><p>营业执照</p></strong>
 </div>
 
 
 <div class="wrapper2">
-<img src="img/about-3.jpg"></img>
+<img src="img/about-3.jpg"  alt="港通天下"></img>
 <strong><p>组织机构代码</p></strong>
 </div>
 
 <div class="wrapper2">
-<img src="img/about-4.jpg"></img>
+<img src="img/about-4.jpg"  alt="港通天下"></img>
 <strong><p>食品流通许可证</p></strong>
 </div>
 

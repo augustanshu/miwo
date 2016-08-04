@@ -23,7 +23,7 @@
 			<div class="desc thin-desc">
 				<h1>台湾好零食</h1>
 				 <figure class="wrap-img-top">
-	              <img src="img/snacks-fallback_large-top.png">
+	              <img src="img/snacks-fallback_large-top.png"  alt="港通天下">
 	             </figure>
 			</div>
 
@@ -34,7 +34,7 @@
    <section id="features0" class="featurette section" style="background-color: #fff;">
 	   <div class="section-wrapper">
 	   <figure class="wrap-img-04 wrapper wrapper-1">
-	     <img src="img/snacks-fallback_large-0.png">
+	     <img src="img/snacks-fallback_large-0.png"  alt="港通天下">
 	   </figure>
 	   </div>
 
@@ -59,15 +59,15 @@
 	     
        <div  class="section-wrapper">
 	   <figure class="wrap-img-11 wrapper wrapper-3">
-	     <img src="img/snacks-fallback_large-10.png">
+	     <img src="img/snacks-fallback_large-10.png"  alt="港通天下">
 	   </figure>
 	  
 	    <figure class="wrap-img-12 wrapper wrapper-31">
-	     <img src="img/snacks-fallback_large-11.png">
+	     <img src="img/snacks-fallback_large-11.png"  alt="港通天下">
 	   </figure>
 	   
 	    <figure class="wrap-img-13 wrapper wrapper-32">
-	     <img src="img/snacks-fallback_large-12.png">
+	     <img src="img/snacks-fallback_large-12.png"  alt="港通天下">
 	   </figure>
 	   
 	   </div >
@@ -104,7 +104,7 @@
 	    
        <div  class="section-wrapper">
 	   <figure class="wrap-img-41 wrapper wrapper-1">
-	     <img src="img/snacks-fallback_large-20.png">
+	     <img src="img/snacks-fallback_large-20.png"  alt="港通天下">
 	   </figure>
 	   <!--
 	    <figure class="wrap-img-32 wrapper">
